@@ -14,3 +14,5 @@
 
 ## 💻 Стек технологий
 Python (pandas, statsmodels, patsy, matplotlib, python-pptx, openpyxl).
+## 📊 Пример автоматического отчета (PowerPoint)
+![Пример сгенерированного слайда](images/slide_preview.png)
