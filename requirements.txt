@@ -1,0 +1,6 @@
+pandas
+statsmodels
+patsy
+matplotlib
+python-pptx
+openpyxl
